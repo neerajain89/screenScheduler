@@ -1,0 +1,32 @@
+/BasicEofSensorWatcher.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BasicManagedEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ClientConnectionManager.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ClientConnectionManagerFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ClientConnectionOperator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ClientConnectionRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectTimeoutException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionKeepAliveStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionPoolTimeoutException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionReleaseTrigger.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DnsResolver.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/EofSensorInputStream.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/EofSensorWatcher.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpClientConnectionManager.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpClientConnectionOperator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpConnectionFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpHostConnectException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpInetSocketAddress.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpRoutedConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ManagedClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ManagedHttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MultihomePlainSocketFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OperatedClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SchemePortResolver.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnsupportedSchemeException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/params////
+D/routing////
+D/scheme////
+D/socket////
+D/ssl////
+D/util////

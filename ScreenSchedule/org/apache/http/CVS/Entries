@@ -1,0 +1,63 @@
+/ConnectionClosedException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionReuseStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Consts.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentTooLongException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ExceptionLogger$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ExceptionLogger$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ExceptionLogger.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FormattedHeader.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Header.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HeaderElement.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HeaderElementIterator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HeaderIterator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpConnectionFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpConnectionMetrics.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpEntityEnclosingRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpHeaders.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpHost.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpInetConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpMessage.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpRequestFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpRequestInterceptor.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpResponse.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpResponseFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpResponseInterceptor.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpVersion.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MalformedChunkCodingException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MessageConstraintException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MethodNotSupportedException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NameValuePair.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NoHttpResponseException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ParseException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ProtocolException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ProtocolVersion.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ReasonPhraseCatalog.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RequestLine.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/StatusLine.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TokenIterator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TruncatedChunkException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnsupportedHttpVersionException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/annotation////
+D/auth////
+D/client////
+D/concurrent////
+D/config////
+D/conn////
+D/cookie////
+D/entity////
+D/impl////
+D/io////
+D/message////
+D/params////
+D/pool////
+D/protocol////
+D/ssl////
+D/util////
+/version.properties/1.1/Mon Jun 13 11:18:35 2016//

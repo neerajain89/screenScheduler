@@ -1,0 +1,8 @@
+/CorruptedFrameException.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/DelimiterBasedFrameDecoder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/Delimiters.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/FixedLengthFrameDecoder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/FrameDecoder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/LengthFieldBasedFrameDecoder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/LengthFieldPrepender.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/TooLongFrameException.class/1.1/Mon Jun 13 11:18:38 2016/-kb/

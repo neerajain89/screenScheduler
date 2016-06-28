@@ -1,0 +1,22 @@
+/AUTH.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthOption.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthProtocolState.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthScheme.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthSchemeFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthSchemeProvider.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthSchemeRegistry$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthSchemeRegistry.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthScope.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthState.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthenticationException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BasicUserPrincipal.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ChallengeState.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContextAwareAuthScheme.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Credentials.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/InvalidCredentialsException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/KerberosCredentials.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MalformedChallengeException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NTCredentials.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NTUserPrincipal.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UsernamePasswordCredentials.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/params////

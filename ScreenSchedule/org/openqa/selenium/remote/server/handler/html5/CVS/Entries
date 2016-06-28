@@ -1,0 +1,16 @@
+/ClearLocalStorage.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ClearSessionStorage.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetAppCacheStatus.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetLocalStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetLocalStorageKeys.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetLocalStorageSize.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetLocationContext.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetSessionStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetSessionStorageKeys.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/GetSessionStorageSize.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/RemoveLocalStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/RemoveSessionStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/SetLocalStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/SetLocationContext.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/SetSessionStorageItem.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/Utils.class/1.1/Mon Jun 13 11:18:38 2016/-kb/

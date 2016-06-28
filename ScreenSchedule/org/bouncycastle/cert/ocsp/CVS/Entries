@@ -1,0 +1,19 @@
+/BasicOCSPResp.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BasicOCSPRespBuilder$ResponseObject.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BasicOCSPRespBuilder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CertificateID.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CertificateStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPReq.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPReqBuilder$RequestObject.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPReqBuilder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPResp.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPRespBuilder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPUtils.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Req.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RespData.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RespID.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RevokedStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SingleResp.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnknownStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/jcajce////

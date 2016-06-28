@@ -1,0 +1,17 @@
+/BasicOCSPResponse.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CertID.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CertStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CrlID.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPObjectIdentifiers.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPResponse.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/OCSPResponseStatus.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Request.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ResponderID.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ResponseBytes.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ResponseData.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RevokedInfo.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ServiceLocator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Signature.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SingleResponse.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TBSRequest.class/1.1/Mon Jun 13 11:18:35 2016/-kb/

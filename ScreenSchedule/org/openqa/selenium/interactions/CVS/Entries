@@ -1,0 +1,25 @@
+/Action.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ActionChainExecutor.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/Actions.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ButtonReleaseAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/CanPerformActionChain.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ClickAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ClickAndHoldAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/CompositeAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/ContextClickAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/DoubleClickAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/HasInputDevices.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/HasTouchScreen.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/InvalidCoordinatesException.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/KeyDownAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/KeyUpAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/Keyboard.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/Mouse.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/MoveMouseAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/MoveTargetOutOfBoundsException.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/MoveToOffsetAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/PauseAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/SendKeysAction.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/TouchScreen.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+D/internal////
+D/touch////

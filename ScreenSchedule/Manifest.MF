@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: com.skilrock.screenSchedule.TestSel
+Class-Path: lib/c3p0-0.9.1.1.jar lib/log4j-1.2.16.jar lib/quartz-2.2.3.jar lib/quartz-jobs-2.2.3.jar lib/selenium-server-standalone-2.53.0.jar lib/slf4j-api-1.7.7.jar  lib/slf4j-log4j12-1.7.7.jar  

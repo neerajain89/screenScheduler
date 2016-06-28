@@ -1,0 +1,46 @@
+/DefaultDateTypeAdapter.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ExclusionStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldAttributes.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy$3.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy$4.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy$5.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingPolicy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldNamingStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$3.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$4.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$5.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson$FutureTypeAdapter.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Gson.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/GsonBuilder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/InstanceCreator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonArray.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonDeserializationContext.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonDeserializer.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonElement.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonIOException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonNull.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonObject.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonParseException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonParser.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonPrimitive.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonSerializationContext.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonSerializer.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonStreamParser.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JsonSyntaxException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/LongSerializationPolicy$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/LongSerializationPolicy$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/LongSerializationPolicy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TreeTypeAdapter$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TreeTypeAdapter$SingleTypeFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TreeTypeAdapter.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TypeAdapter$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TypeAdapter.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TypeAdapterFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/annotations////
+D/internal////
+D/reflect////
+D/stream////

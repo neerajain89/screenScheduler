@@ -1,0 +1,27 @@
+/AbstractHttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractHttpServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BHttpConnectionBase.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnSupport.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultBHttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultBHttpClientConnectionFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultBHttpServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultBHttpServerConnectionFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultConnectionReuseStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultHttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultHttpRequestFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultHttpResponseFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultHttpServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/EnglishReasonPhraseCatalog.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpConnectionMetricsImpl.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NoConnectionReuseStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SocketHttpClientConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SocketHttpServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/auth////
+D/bootstrap////
+D/client////
+D/conn////
+D/cookie////
+D/entity////
+D/execchain////
+D/io////
+D/pool////

@@ -1,0 +1,15 @@
+/IsArray.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsArrayContaining.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsArrayContainingInAnyOrder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsArrayContainingInOrder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsArrayWithSize.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsCollectionWithSize.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsEmptyCollection.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsEmptyIterable.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIn.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIterableContainingInAnyOrder$Matching.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIterableContainingInAnyOrder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIterableContainingInOrder$MatchSeries.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIterableContainingInOrder.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsIterableWithSize.class/1.1/Mon Jun 13 11:18:38 2016/-kb/
+/IsMapContaining.class/1.1/Mon Jun 13 11:18:38 2016/-kb/

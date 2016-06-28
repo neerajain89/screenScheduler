@@ -1,0 +1,13 @@
+/RuleMemberValidator$1.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$Builder.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$DeclaringClassMustBePublic.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$FieldMustBeARule.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$FieldMustBeATestRule.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$MemberMustBeNonStaticOrAlsoClassRule.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$MemberMustBePublic.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$MemberMustBeStatic.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$MethodMustBeARule.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$MethodMustBeATestRule.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator$RuleValidator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/RuleMemberValidator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/ValidationError.class/1.1/Mon Jun 13 11:18:36 2016/-kb/

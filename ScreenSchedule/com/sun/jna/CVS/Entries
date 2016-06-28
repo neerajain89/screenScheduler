@@ -1,0 +1,101 @@
+/AltCallingConvention.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Callback$UncaughtExceptionHandler.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Callback.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackParameterContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackProxy.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackReference$AttachOptions.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackReference$DefaultCallbackProxy.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackReference$NativeFunctionHandler.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackReference.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackResultContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/CallbackThreadInitializer.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/DefaultTypeMapper$Entry.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/DefaultTypeMapper.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/FromNativeContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/FromNativeConverter.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Function$NativeMappedArray.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Function$PointerArray.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Function$PostCallRead.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Function.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/FunctionMapper.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/FunctionParameterContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/FunctionResultContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/IntegerType.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/InvocationMapper.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/LastErrorException.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Library$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Library$Handler$FunctionInfo.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Library$Handler.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Library.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Memory$SharedMemory.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Memory.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/MethodParameterContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/MethodResultContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$2.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$3.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$4.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$5.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$6.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$7.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$8.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$AWT.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$Buffers.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native$ffi_callback.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Native.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeLibrary$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeLibrary$2.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeLibrary.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeLong.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeMapped.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeMappedConverter.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/NativeString.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Platform.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Pointer$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Pointer$Opaque.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Pointer.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/PointerType.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/StringArray.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$2$StructureSet.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$2.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$3.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$AutoAllocated.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$ByReference.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$ByValue.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$FFIType$FFITypes.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$FFIType$size_t.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$FFIType.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$LayoutInfo.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure$StructField.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Structure.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/StructureReadContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/StructureWriteContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/ToNativeContext.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/ToNativeConverter.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/TypeConverter.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/TypeMapper.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Union.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/Version.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/WString.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/WeakIdentityHashMap$1.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/WeakIdentityHashMap$IdentityWeakReference.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+/WeakIdentityHashMap.class/1.1/Mon Jun 13 11:18:34 2016/-kb/
+D/darwin////
+D/freebsd-x86////
+D/freebsd-x86-64////
+D/linux-arm////
+D/linux-x86////
+D/linux-x86-64////
+D/openbsd-x86////
+D/openbsd-x86-64////
+D/platform////
+D/ptr////
+D/sunos-sparc////
+D/sunos-sparcv9////
+D/sunos-x86////
+D/sunos-x86-64////
+D/w32ce-arm////
+D/win32////
+D/win32-x86////
+D/win32-x86-64////

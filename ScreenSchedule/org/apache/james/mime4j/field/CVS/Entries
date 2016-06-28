@@ -1,0 +1,31 @@
+/AbstractField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AddressListField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AddressListField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentDispositionField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentDispositionField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentTransferEncodingField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentTransferEncodingField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentTypeField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ContentTypeField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DateTimeField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DateTimeField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DefaultFieldParser.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DelegatingFieldParser.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldName.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FieldParser.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Fields.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MailboxField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MailboxField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MailboxListField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/MailboxListField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ParseException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ParsedField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnstructuredField$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnstructuredField.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/address////
+D/contentdisposition////
+D/contenttype////
+D/datetime////
+D/language////
+D/mimeversion////
+D/structured////

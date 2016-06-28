@@ -1,0 +1,21 @@
+/AbstractConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractConnectionManager.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractJMXConnector.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractJMXConnectorServer.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractServerInvoker.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Connection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionManager.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JMXConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JMXConnectionHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JMXConnectionMBeanServerConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PasswordAuthenticator.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SubjectInvoker$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SubjectInvoker.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/caucho////
+D/http////
+D/local////
+D/provider////
+D/proxy////
+D/resolver////
+D/rmi////
+D/soap////

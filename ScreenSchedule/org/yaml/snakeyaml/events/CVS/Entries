@@ -1,0 +1,16 @@
+/AliasEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/CollectionEndEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/CollectionStartEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DocumentEndEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DocumentStartEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/Event$ID.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/Event.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/ImplicitTuple.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/MappingEndEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/MappingStartEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/NodeEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/ScalarEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/SequenceEndEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/SequenceStartEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/StreamEndEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/StreamStartEvent.class/1.1/Mon Jun 13 11:18:36 2016/-kb/

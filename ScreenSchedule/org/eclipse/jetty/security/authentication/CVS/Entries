@@ -1,0 +1,17 @@
+/BasicAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/ClientCertAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DeferredAuthentication$1.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DeferredAuthentication$2.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DeferredAuthentication.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DigestAuthenticator$Digest.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DigestAuthenticator$Nonce.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/DigestAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/FormAuthenticator$FormAuthentication.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/FormAuthenticator$FormRequest.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/FormAuthenticator$FormResponse.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/FormAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/LoginAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/LoginCallback.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/LoginCallbackImpl.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/SessionAuthentication.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/SpnegoAuthenticator.class/1.1/Mon Jun 13 11:18:36 2016/-kb/

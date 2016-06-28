@@ -1,0 +1,22 @@
+/AbstractSession.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/AbstractSessionIdManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/AbstractSessionManager$1.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/AbstractSessionManager$CookieConfig.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/AbstractSessionManager$SessionIf.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/AbstractSessionManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/HashSessionIdManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/HashSessionManager$Saver.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/HashSessionManager$Scavenger.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/HashSessionManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/HashedSession.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionIdManager$DatabaseAdaptor.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionIdManager$Scavenger.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionIdManager$SessionIdTableSchema.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionIdManager$SessionTableSchema.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionIdManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionManager$1.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionManager$Session.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/JDBCSessionManager.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/MemSession.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+/SessionHandler.class/1.1/Mon Jun 13 11:18:36 2016/-kb/
+D/jmx////

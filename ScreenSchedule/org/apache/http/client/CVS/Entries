@@ -1,0 +1,27 @@
+/AuthCache.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthenticationHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AuthenticationStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/BackoffManager.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CircularRedirectException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ClientProtocolException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionBackoffStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CookieStore.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/CredentialsProvider.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpClient.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpRequestRetryHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/HttpResponseException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NonRepeatableRequestException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RedirectException.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RedirectHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RedirectStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/RequestDirector.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ResponseHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ServiceUnavailableRetryStrategy.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UserTokenHandler.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/config////
+D/entity////
+D/methods////
+D/params////
+D/protocol////
+D/utils////
+/version.properties/1.1/Mon Jun 13 11:18:35 2016//

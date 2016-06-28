@@ -1,0 +1,16 @@
+/AbstractStatisticsRecorder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/NotificationStatisticsRecorder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ObserverStatisticsRecorder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ObserverStatisticsRecorderMBean.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ObserverStatisticsRecorderMBeanDescription.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PointTime.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/StatisticsRecorderMBean.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/StatisticsRecorderMBeanDescription.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TimedStatisticsRecorder$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TimedStatisticsRecorder$CollectTask.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TimedStatisticsRecorder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TimedStatisticsRecorderMBean.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/TimedStatisticsRecorderMBeanDescription.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ValueStatisticsRecorder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ValueStatisticsRecorderMBean.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ValueStatisticsRecorderMBeanDescription.class/1.1/Mon Jun 13 11:18:35 2016/-kb/

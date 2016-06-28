@@ -1,0 +1,38 @@
+/AbstractConnectionCustomizer.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/AbstractConnectionTester.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/C3P0ProxyConnection.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/C3P0ProxyStatement.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/C3P0Registry.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ComboPooledDataSource$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ComboPooledDataSource$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ComboPooledDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionCustomizer.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/ConnectionTester.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DataSources.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/Debug.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DriverManagerDataSource$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DriverManagerDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DriverManagerDataSourceFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/FullQueryConnectionTester.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JndiRefConnectionPoolDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JndiRefForwardingDataSource$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JndiRefForwardingDataSource$2.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/JndiRefForwardingDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PoolBackedDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PoolBackedDataSourceFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PoolConfig.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/PooledDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/QueryConnectionTester.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/SQLWarnings.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UnifiedConnectionTester.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/WrapperConnectionPoolDataSource$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/WrapperConnectionPoolDataSource.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+D/cfg////
+D/filter////
+D/impl////
+D/jboss////
+D/management////
+D/mbean////
+D/stmt////
+D/subst////
+D/util////

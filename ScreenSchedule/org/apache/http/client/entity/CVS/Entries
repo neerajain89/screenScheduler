@@ -1,0 +1,12 @@
+/DecompressingEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DeflateDecompressingEntity$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DeflateDecompressingEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DeflateInputStream$DeflateStream.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/DeflateInputStream.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/EntityBuilder.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/GzipCompressingEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/GzipDecompressingEntity$1.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/GzipDecompressingEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/InputStreamFactory.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/LazyDecompressingInputStream.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
+/UrlEncodedFormEntity.class/1.1/Mon Jun 13 11:18:35 2016/-kb/
